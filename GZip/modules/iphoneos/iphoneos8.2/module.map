@@ -1,0 +1,4 @@
+module libz [system] {
+    header "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.2.sdk/usr/include/zlib.h"
+    export *
+}
