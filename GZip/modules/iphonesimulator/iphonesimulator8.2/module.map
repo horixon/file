@@ -1,4 +1,0 @@
-module libz [system] {
-    header "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/zlib.h"
-    export *
-}

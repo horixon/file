@@ -1,0 +1,4 @@
+module libz [system] {
+    header "TOKEN/usr/include/zlib.h"
+    export *
+}
